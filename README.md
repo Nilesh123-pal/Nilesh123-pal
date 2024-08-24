@@ -7,7 +7,7 @@
 &nbsp;
 <a href="https://www.facebook.com/siddharth.paul.773" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="100011683902531e" height="30" width="40" /></a>
 &nbsp;
-<a href="https://www.quora.com/profile/Nilesh-Pal-212?ch=10&oid=2757441247&share=aa18ac67&srid=3whMeu&target_type=user" target="_blank"><img align="center" src="(https://github.com/user-attachments/assets/b917a971-7be7-4def-a8d4-5cb16d448f13)
+<a href="https://www.quora.com/profile/Nilesh-Pal-212?ch=10&oid=2757441247&share=aa18ac67&srid=3whMeu&target_type=user" target="_blank"><img align="center" src="(https://www.google.com/search?client=ms-android-nothing-terr1-rso3&sa=X&sca_esv=70c73ed1c859bb01&sca_upv=1&udm=2&sxsrf=ADLYWII0obrTegs5W8KEHf8h5ubuFCWUfQ:1724532085521&q=quora+logo+2023&stick=H4sIAAAAAAAAAFvEyl9Yml-UqJCTn56vYGRgZAwAFzc_7BIAAAA&source=univ&ved=2ahUKEwiC1fHSvo6IAxW2SGcHHVWAFDIQrNwCegUIxQEQAA&biw=412&bih=783&dpr=2.63#vhid=ftPl9EqyJ5b3AM&vssid=mosaic)
 " alt="100011683902531e" height="30" width="40" /></a>
 &nbsp;
 
