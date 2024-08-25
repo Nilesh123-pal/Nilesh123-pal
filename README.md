@@ -11,7 +11,7 @@
 &nbsp;
 
 ## Glad to see you here! &nbsp;!![visitor badge](https://visitor-badge.lithub.cc/badge?page_id=Nilesh123-pal.Nilesh123-palvisitor-badge&left_color=blue&right_color=green) 
-## Glad to see you here! &nbsp;!![visitor badge](https://shields-io-visitor-counter.herokuapp.com/badge?page=octocat.Spoon-Knife&label=My First Counter&labelColor=000000&logo=GitHub&logoColor=FFFFFF&color=1D70B8&style=for-the-badge)
+## Glad to see you here! &nbsp;!![visitor badge](https://shields-io-visitor-counter.herokuapp.com/badge?Nilesh123-pal.Nilesh123-palvisitor-badge&left_color=blue&right_color=green&logo=GitHub&logoColor=FFFFFF&color=1D70B8&style=for-the-badge)
 
 
 <img align="right" alt="GIF" src="https://github.com/AswinBarath/AswinBarath/blob/master/coding.gif?raw=true" width="408" height="318" />
