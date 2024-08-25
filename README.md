@@ -7,7 +7,7 @@
 &nbsp;
 <a href="https://www.facebook.com/siddharth.paul.773" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="100011683902531e" height="30" width="40" /></a>
 &nbsp;
-<a href="file:///C:/Users/ritsid/Downloads/quora.svg" alt="100011683902531e" height="30" width="40"/></a>
+<a href="file:///C:/Users/ritsid/Downloads/quora-color.svg" alt="100011683902531e" height="30" width="40"/></a>
 &nbsp;
 
 ## Glad to see you here! &nbsp;![visitor badge](https://visitor-badge.lithub.cc/badge?page_id=Nilesh123-pal.Nilesh123-pal&left_color=blue&right_color=green&left_text=Hello%20Visitors)
