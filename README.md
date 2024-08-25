@@ -9,6 +9,7 @@
 &nbsp;
 <a href="https://www.quora.com/profile/Nilesh-Pal-212?ch=10&oid=2757441247&share=aa18ac67&srid=3whMeu&target_type=user"> 
 <img align="center" src="https://qph.cf2.quoracdn.net/main-qimg-4d340b8b704ccfc33ac16dd261b6c121-lq" alt="100011683902531e" height="32" width="35" style="border-radius:5px"/></a>
+&nbsp;
 <a href="https://pin.it/4PRaWU628"> 
 <img align="center" src="https://i.pinimg.com/564x/6e/ad/91/6ead912ceb43c93b8e189d1eb802845f.jpg" height="32" width="35" style="border-radius:5px"/></a>
 &nbsp;
