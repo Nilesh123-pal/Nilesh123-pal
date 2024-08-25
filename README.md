@@ -11,10 +11,9 @@
 &nbsp;
 
 ## Glad to see you here! &nbsp;!![visitor badge](https://visitor-badge.lithub.cc/badge?page_id=Nilesh123-pal.Nilesh123-palvisitor-badge&left_color=blue&right_color=green) 
-## Glad to see you here! &nbsp;!![visitor badge](https://shields-io-visitor-counter.herokuapp.com/badge?Nilesh123-pal.Nilesh123-palvisitor-badge&left_color=blue&right_color=green&logo=GitHub&logoColor=FFFFFF&color=1D70B8&style=for-the-badge)
+## Glad to see you here! &nbsp;!!![GitHub visitors](https://img.shields.io/badge/dynamic/json?color=black&label=GitHub&query=value&url=https://api.countapi.xyz/hit/Nilesh123-pal.Nilesh123-pal/visits&logo=github&logoColor=white)
 
-
-<img align="right" alt="GIF" src="https://github.com/AswinBarath/AswinBarath/blob/master/coding.gif?raw=true" width="408" height="318" />
+<img align="right" alt="GIF" src="https://github.com/AswinBarath/AswinBarath/blob/master/coding.gif?raw=true" width="408" height="318"/>
 
 
 
@@ -26,7 +25,7 @@
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Html,CSS&Js
 - 💞️ I’m looking to collaborate on 
-- 📫 How to reach me (nileshpal201@gmail.com)
+- 📫 How to reach me: (nileshpal201@gmail.com)
 - [Resume](https://drive.google.com/file/d/1PvxVur2jSAJjv8eEtsWhEFdsUVe0A5Mm/view?usp=drive_link)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love code and i want to be a best web developer in future
