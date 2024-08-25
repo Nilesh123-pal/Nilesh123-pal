@@ -11,7 +11,7 @@
 &nbsp;
 
 ## Glad to see you here! &nbsp;!![visitor badge](https://visitor-badge.lithub.cc/badge?page_id=Nilesh123-pal.Nilesh123-palvisitor-badge&left_color=blue&right_color=green) 
-## Glad to see you here! &nbsp;!!![GitHub visitors](https://img.shields.io/badge/dynamic/json?color=black&label=GitHub&query=value&url=https://api.countapi.xyz/hit/Nilesh123-pal.Nilesh123-pal/visits&logo=github&logoColor=white)
+## Glad to see you here! &nbsp;!![visitor badge](https://img.shields.io/badge/dynamic/json?color=black&label=GitHub&query=value&url=https://api.countapi.xyz/hit/Nilesh123-pal.Nilesh123-pal/visits&logo=github&logoColor=white)
 
 <img align="right" alt="GIF" src="https://github.com/AswinBarath/AswinBarath/blob/master/coding.gif?raw=true" width="408" height="318"/>
 
