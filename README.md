@@ -7,7 +7,7 @@
 &nbsp;
 <a href="https://www.facebook.com/siddharth.paul.773" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="100011683902531e" height="30" width="40" /></a>
 &nbsp;
-<a href="[https://www.quora.com/profile/Nilesh-1229?ch=10&oid=2762361960&share=dbc4ecc6&srid=3wZsEA&target_type=user](https://www.quora.com/profile/Nilesh-1232?ch=10&oid=1162788057&share=bfed29f7&srid=u82c0T&target_type=user)"> 
+<a href="https://www.quora.com/profile/Nilesh-1232?ch=10&oid=1162788057&share=bfed29f7&srid=u82c0T&target_type=user"> 
 <img align="center" src="https://qph.cf2.quoracdn.net/main-qimg-4d340b8b704ccfc33ac16dd261b6c121-lq" alt="100011683902531e" height="32" width="35" style="border-radius:5px"/></a>
 &nbsp;
 <a href="https://pin.it/4PRaWU628"> 
