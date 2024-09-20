@@ -39,14 +39,16 @@
 ### Talking about Personal Stuff:
 
  
-- 👋 Myself Nilesh Pal.
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning Html,CSS&Js
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me: (pd.nileshpal2097.com)
-- [Resume](https://drive.google.com/file/d/1PvxVur2jSAJjv8eEtsWhEFdsUVe0A5Mm/view?usp=drive_link)
--😄 Pronouns: He/Him
-- ⚡ Fun fact: I love code and i want to be a best web developer in future
+<ul style="font-weight: bold; color: red;">
+   <li>👋 Myself Nilesh Pal.</li>
+ <li>👀 I’m interested in Coding</li>
+<li>🌱 I’m currently learning Html,CSS&Js</li>
+<li>💞️ I’m looking to collaborate on</li>
+<li>📫 How to reach me:(pd.nileshpal2097.com)</li>
+<li><a href="(https://drive.google.com/file/d/1PvxVur2jSAJjv8eEtsWhEFdsUVe0A5Mm/view?usp=drive_link)"style="text-decoration: none;">📃Resume</a></li>
+<li>😄 Pronouns: He/Him</li>
+<li>⚡ Fun fact: I love code and i want to be a best web developer in future.</li>
+</ul>
 
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Languages and Tools:**  
