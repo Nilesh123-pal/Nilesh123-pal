@@ -16,7 +16,6 @@
 <a href="https://www.technonilesh.online/"> 
 <img align="center" src="https://i.pinimg.com/564x/3a/05/7f/3a057fa323da56a49ca5e2c78463de26.jpg" height="32" width="35" style="border-radius:5px"/></a>
 
-![Badge](https://visitor-counter-badge.vercel.app/api/asheeeshh/visitor-counter-badge?label=Hits&color=fc7695&labelColor=95abdb)
 
 
 ## Glad to see you here! &nbsp;![visitor badge](https://visitor-badge.lithub.cc/badge?page_id=Nilesh123-pal.Nilesh123-pal&left_color=blue&right_color=green&left_text=Hello%20Visitors)
