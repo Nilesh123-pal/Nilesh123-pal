@@ -37,10 +37,21 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love code and i want to be a best web developer in future
 
-  🛠 **Languages and Tools:**  
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Languages and Tools:**  
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,md,git,github,vscode,=13)](#)
 
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Github Stats 
+
+ [![Nilesh's github stats](https://bad-apple-github-readme.vercel.app/api?username=Nilesh123-pal&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)
+
+
+
+
+
+
 <!---
+
 Nilesh123-pal/Nilesh123-pal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
