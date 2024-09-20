@@ -44,7 +44,7 @@
  <li><img src="https://media.tenor.com/F0uEWXLHEHwAAAAi/eyes-noto-color-emoji.gif" style="height:22px ; position: relative; top:5px;"> I’m interested in Coding</li>
 <li>🌱 I’m currently learning Html,CSS&Js</li>
 <li>💞️ I’m looking to collaborate on</li>
-<li><img src="https://media.tenor.com/4s8RxnXHt-4AAAAi/icon-cute.gif"  style="height:25px; position: relative; top:10px;"> How to reach me: (pd.nileshpal2097.com)</li>
+<li><img src="https://media.tenor.com/4s8RxnXHt-4AAAAi/icon-cute.gif"  style="height:25px; position: relative; top:12px;"> How to reach me: (pd.nileshpal2097.com)</li>
 <li><a href ="https://drive.google.com/file/d/1PvxVur2jSAJjv8eEtsWhEFdsUVe0A5Mm/view?usp=drive_link">📃Resume</a></li>
 <li><img src="https://media.tenor.com/GX1Op5FKPFwAAAAi/dm4uz3-foekoe.gif" style="height:20px">Pronouns: He/Him</li>
 <li>⚡ Fun fact: I love code and i want to be a best web developer in future.</li>
