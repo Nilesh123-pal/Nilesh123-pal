@@ -39,16 +39,16 @@
 ### Talking about Personal Stuff:
 
  
-<ul style="font-weight: bold; color: red;">
-   <li><img src="https://media.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif" style="height:25px;position: relative; top:7px;"> Myself Nilesh Pal.</li>
- <li><img src="https://media.tenor.com/F0uEWXLHEHwAAAAi/eyes-noto-color-emoji.gif" style="height:22px ; position: relative; top:5px;"> I’m interested in Coding</li>
-<li>🌱 I’m currently learning Html,CSS&Js</li>
-<li>💞️ I’m looking to collaborate on</li>
-<li><img src="https://media.tenor.com/4s8RxnXHt-4AAAAi/icon-cute.gif"  style="height:25px; position: relative; top:12px;"> How to reach me: (pd.nileshpal2097.com)</li>
-<li><a href ="https://drive.google.com/file/d/1PvxVur2jSAJjv8eEtsWhEFdsUVe0A5Mm/view?usp=drive_link">📃Resume</a></li>
-<li><img src="https://media.tenor.com/GX1Op5FKPFwAAAAi/dm4uz3-foekoe.gif" style="height:20px">Pronouns: He/Him</li>
-<li>⚡ Fun fact: I love code and i want to be a best web developer in future.</li>
-</ul>
+ <ul style="font-weight: bold; color: red;">
+        <li><img src="https://media.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif" style="height:25px;position: relative; top:7px;"> Myself Nilesh Pal.</li>
+      <li><img src="https://media.tenor.com/F0uEWXLHEHwAAAAi/eyes-noto-color-emoji.gif" style="height:22px ; position: relative; top:5px;"> I’m interested in Coding</li>
+     <li><img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FM3y4d%2FbtrM7jZwfSh%2F1Lstmpn0Y7AYSsasMHvV31%2Fimg.png" style="height:18px; position: relative; top:5px; border-radius: 50%;" > I’m currently learning Html,CSS&Js</li>
+     <li>💞️ I’m looking to collaborate on</li>
+     <li><img src="https://media.tenor.com/4s8RxnXHt-4AAAAi/icon-cute.gif"  style="height:25px; position: relative; top:10px;"> How to reach me: (pd.nileshpal2097.com)</li>
+     <li><a href ="https://drive.google.com/file/d/1PvxVur2jSAJjv8eEtsWhEFdsUVe0A5Mm/view?usp=drive_link">📃Resume</a></li></li>
+     <li><img src="https://media.tenor.com/GX1Op5FKPFwAAAAi/dm4uz3-foekoe.gif" style="height:20px">Pronouns: He/Him</li>
+     <li>⚡ Fun fact: I love code and i want to be a best web developer in future.</li>
+     </ul>
 
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Languages and Tools:**  
