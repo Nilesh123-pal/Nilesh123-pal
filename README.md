@@ -20,10 +20,9 @@
 
 ## Glad to see you here! &nbsp;![visitor badge](https://visitor-badge.lithub.cc/badge?page_id=Nilesh123-pal.Nilesh123-pal&left_color=blue&right_color=green&left_text=Hello%20Visitors)
 <img align="right" alt="GIF" src="https://github.com/AswinBarath/AswinBarath/blob/master/coding.gif?raw=true" width="408" height="318">
-    <a href="https://github.com/anuraghazra/github-readme-stats/actions">
-      <img alt="Tests Passing" src="https://github.com/anuraghazra/github-readme-stats/workflows/Test/badge.svg" />
-    </a>
-
+    [![GitHub stars](https://img.shields.io/github/stars/themlphdstudent/awesome-github-profile-readme-templates.svg)](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/themlphdstudent/awesome-github-profile-readme-templates.svg?color=blue)](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/network)
+[![GitHub contributors](https://img.shields.io/github/contributors/themlphdstudent/awesome-github-profile-readme-templates.svg?color=blue)](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/network)
 
 
 
