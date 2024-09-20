@@ -40,13 +40,13 @@
 
  
 <ul style="font-weight: bold; color: red;">
-   <li>👋 Myself Nilesh Pal.</li>
- <li>👀 I’m interested in Coding</li>
+   <li><img src="https://media.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif" style="height:25px;position: relative; top:7px;"> Myself Nilesh Pal.</li>
+ <li><img src="https://media.tenor.com/F0uEWXLHEHwAAAAi/eyes-noto-color-emoji.gif" style="height:22px ; position: relative; top:5px;"> I’m interested in Coding</li>
 <li>🌱 I’m currently learning Html,CSS&Js</li>
 <li>💞️ I’m looking to collaborate on</li>
-<li>📫 How to reach me:(pd.nileshpal2097.com)</li>
-<li><a href ="https://drive.google.com/file/d/1PvxVur2jSAJjv8eEtsWhEFdsUVe0A5Mm/view?usp=drive_link">📃Resume</a></li>
-<li>😄 Pronouns: He/Him</li>
+<li><img src="https://media.tenor.com/4s8RxnXHt-4AAAAi/icon-cute.gif"  style="height:25px; position: relative; top:10px;"> How to reach me: (pd.nileshpal2097.com)</li>
+<li><img src="https://media1.tenor.com/m/Z_KEDm9F_hQAAAAC/document-office.gif"style="height:25px; position: relative; top:5px;"><a href="(https://drive.google.com/file/d/1PvxVur2jSAJjv8eEtsWhEFdsUVe0A5Mm/view?usp=drive_link)"style="text-decoration: none;">Resume</a></li>
+<li><img src="https://media.tenor.com/GX1Op5FKPFwAAAAi/dm4uz3-foekoe.gif" style="height:20px">Pronouns: He/Him</li>
 <li>⚡ Fun fact: I love code and i want to be a best web developer in future.</li>
 </ul>
 
