@@ -37,7 +37,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love code and i want to be a best web developer in future
 
-   **Languages and Tools:**  
+  🛠 **Languages and Tools:**  
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,md,git,github,vscode,=13)](#)
 
 <!---
