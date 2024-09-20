@@ -47,14 +47,14 @@
 
  [![Nilesh's github stats](https://bad-apple-github-readme.vercel.app/api?username=Nilesh123-pal&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)
 
-<img src="https://i.pinimg.com/originals/c6/eb/ff/c6ebfff49a0603c04909f724798ca666.png" height="32" width="35"/>
+<img src="https://i.pinimg.com/originals/c6/eb/ff/c6ebfff49a0603c04909f724798ca666.png" height="200" width="200"/>
 
 [![Nilesh's current streak](https://streak-stats.demolab.com/?user=Nilesh123-pal&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
 
 
 <p align="center">
-     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer">/>
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer">
 </p>
 
 
