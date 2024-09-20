@@ -65,7 +65,7 @@
 
 [![Nilesh's current streak](https://streak-stats.demolab.com/?user=Nilesh123-pal&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 <p align="center">
-img src="https://m.media-amazon.com/images/I/51XAzbgFSCL._AC_SX679_.jpg">
+<img src="https://m.media-amazon.com/images/I/51XAzbgFSCL._AC_SX679_.jpg">
 </p>
 
 <p align="center">
