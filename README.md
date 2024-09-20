@@ -36,7 +36,9 @@
 - [Resume](https://drive.google.com/file/d/1PvxVur2jSAJjv8eEtsWhEFdsUVe0A5Mm/view?usp=drive_link)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love code and i want to be a best web developer in future
-  
+
+   **Languages and Tools:**  
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,md,git,github,vscode,=13)](#)
 
 <!---
 Nilesh123-pal/Nilesh123-pal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
