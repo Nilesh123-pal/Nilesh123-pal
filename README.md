@@ -49,7 +49,6 @@
  [![Nilesh's github stats](https://bad-apple-github-readme.vercel.app/api?username=Nilesh123-pal&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)
 
 
-[![Top languages](https://github-readme-Nilesh123-pal.vercel.app/api/top-langs/?username=Nilesh123-pal&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
 [![Nilesh's current streak](https://streak-stats.demolab.com/?user=Nilesh123-pal&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
