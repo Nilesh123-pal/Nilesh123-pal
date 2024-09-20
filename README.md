@@ -65,7 +65,7 @@
 
 [![Nilesh's current streak](https://streak-stats.demolab.com/?user=Nilesh123-pal&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 <p align="center">
-<img src="[https://m.media-amazon.com/images/I/51XAzbgFSCL._AC_SX679_.jpg](https://w0.peakpx.com/wallpaper/290/195/HD-wallpaper-wall-art-print-eat-sleep-code-repeat-gifts-merchandise.jpg)" height="200" width="200"/>
+<img src="https://w0.peakpx.com/wallpaper/290/195/HD-wallpaper-wall-art-print-eat-sleep-code-repeat-gifts-merchandise.jpg" height="200" width="200"/>
 </p>
 
 <p align="center">
