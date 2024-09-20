@@ -42,7 +42,7 @@
  <ul style="font-weight: bold; color: red;">
         <li><img src="https://media.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif" style="height:25px;position: relative; top:7px;"> Myself Nilesh Pal.</li>
       <li><img src="https://media.tenor.com/F0uEWXLHEHwAAAAi/eyes-noto-color-emoji.gif" style="height:22px ; position: relative; top:5px;"> I’m interested in Coding</li>
-     <li><img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FM3y4d%2FbtrM7jZwfSh%2F1Lstmpn0Y7AYSsasMHvV31%2Fimg.png" style="height:18px; position: relative; top:5px; border-radius: 50%;" > I’m currently learning Html,CSS&Js</li>
+     <li><img src="https://i.pinimg.com/originals/21/ea/f3/21eaf3d13b897e6a5161d8e0382d851b.png" style="height:18px; position: relative; top:5px; border-radius: 50%;" > I’m currently learning Html,CSS&Js</li>
      <li>💞️ I’m looking to collaborate on</li>
      <li><img src="https://media.tenor.com/4s8RxnXHt-4AAAAi/icon-cute.gif"  style="height:25px; position: relative; top:10px;"> How to reach me: (pd.nileshpal2097.com)</li>
      <li><a href ="https://drive.google.com/file/d/1PvxVur2jSAJjv8eEtsWhEFdsUVe0A5Mm/view?usp=drive_link">📃Resume</a></li></li>
