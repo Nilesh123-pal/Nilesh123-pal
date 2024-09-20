@@ -45,7 +45,7 @@
 <li>🌱 I’m currently learning Html,CSS&Js</li>
 <li>💞️ I’m looking to collaborate on</li>
 <li>📫 How to reach me:(pd.nileshpal2097.com)</li>
--📃Resume (https://drive.google.com/file/d/1PvxVur2jSAJjv8eEtsWhEFdsUVe0A5Mm/view?usp=drive_link)
+-📃Resume https://drive.google.com/file/d/1PvxVur2jSAJjv8eEtsWhEFdsUVe0A5Mm/view?usp=drive_link
 <li>😄 Pronouns: He/Him</li>
 <li>⚡ Fun fact: I love code and i want to be a best web developer in future.</li>
 </ul>
